@@ -1,4 +1,4 @@
-
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
 
 <h1 align="center">Hi 👋, I'm Soumen Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
