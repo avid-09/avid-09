@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Soumen Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="1000" height = "600" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"
@@ -7,7 +9,9 @@ img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avid-09" alt="avid-09" /></a> </p>
 
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **MERN**
+
+- 💬 Ask me about **react, Web Development, Programming**
 
 - 📫 How to reach me **soumenmallick53@gmail.com**
 
