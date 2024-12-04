@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumen Mallick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from JALPAIGURI GOVERNMENT ENGINEERING COLLEGE</h3>
 <img align="center" alt="Coding" width="1000" height = "600" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"
 img>
 
