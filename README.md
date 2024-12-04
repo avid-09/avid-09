@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumen Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"
+<img align="center" alt="Coding" width="500" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"
 img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avid-09&label=Profile%20views&color=0e75b6&style=flat" alt="avid-09" /> </p>
