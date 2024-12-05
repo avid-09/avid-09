@@ -1,7 +1,7 @@
 ![logo](https://camo.githubusercontent.com/024facbfc23a4e8f6dfe2c1dd83e0f3269189d6c47c78862283485db472c04b7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65302f35382f65652f65303538656563633036353266663338613465373036326366636630386339642e676966)
 <h1 align="center">Hi 👋, I'm Soumen Mallick</h1>
 <h3 align="center">A passionate frontend developer from JALPAIGURI GOVERNMENT ENGINEERING COLLEGE</h3>
-<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"
+<img align="right" alt="Coding" width="340" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"
 img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avid-09&label=Profile%20views&color=0e75b6&style=flat" alt="avid-09" /> </p>
